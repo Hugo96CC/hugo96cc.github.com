@@ -31,7 +31,7 @@ links.forEach(function(links){
         
         setTimeout(function(){
 
-            location.href = "/boletines";
+            location.href = "/boletines/index.html";
 
         },600);// 600 milisegundos
 
